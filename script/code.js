@@ -39,7 +39,7 @@ let education = [
         id: 4,
         year: 2022,
         description: 'I did a business adminstrative course',
-        place: 'Study Jams',
+        place: 'TSIBA',
         type: 'certificate',
         certificate: ''
     },
@@ -83,3 +83,4 @@ education.forEach((data)=> {
     </div>
     `
 })
+// 
