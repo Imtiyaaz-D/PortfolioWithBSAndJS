@@ -11,8 +11,8 @@ body{
     --primary: rgb(0, 0, 0);
     --secondary: white;
     --alternative: hsla(144, 27%, 37%, .7);
-    --awesomeColor: darkolivegreen;
-    --green: green;
+    --awesomeColor: #394456;
+    --green: #ced1e0;
     --mainBox-shadow: -8px -3px 23px 5px rgba(105,96,96,0.75);
 }
 /* Education */

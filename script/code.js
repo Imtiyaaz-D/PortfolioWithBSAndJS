@@ -11,34 +11,34 @@ aboutContents.forEach( (content)=>{
 } )
 //Education
 let education = [
-    {
-        id: 1,
-        year: 2020,
-        description: 'I got my certificates on Data science',
-        place: 'Data Camp',
-        type: 'certificate',
-        certificate: ''
-    },
-    {
-        id: 2,
-        year: 2019,
-        description: 'I got my certificates on Advanced to Python',
-        place: 'Data Camp',
-        type: 'certificate',
-        certificate: ''
-    },
-    {
-        id: 3,
-        year: 2018,
-        description: 'I got my certificates on Intro to Python',
-        place: 'Data Camp',
-        type: 'certificate',
-        certificate: ''
-    },
+    // {
+    //     id: 1,
+    //     year: 2020,
+    //     description: 'I got my certificates on Data science',
+    //     place: 'Data Camp',
+    //     type: 'certificate',
+    //     certificate: ''
+    // },
+    // {
+    //     id: 2,
+    //     year: 2019,
+    //     description: 'I got my certificates on Advanced to Python',
+    //     place: 'Data Camp',
+    //     type: 'certificate',
+    //     certificate: ''
+    // },
+    // {
+    //     id: 3,
+    //     year: 2018,
+    //     description: 'I got my certificates on Intro to Python',
+    //     place: 'Data Camp',
+    //     type: 'certificate',
+    //     certificate: ''
+    // },
     {
         id: 4,
-        year: 2015,
-        description: 'I got my certificate on Intro to Android Developer',
+        year: 2022,
+        description: 'I did a business adminstrative course',
         place: 'Study Jams',
         type: 'certificate',
         certificate: ''
@@ -46,9 +46,9 @@ let education = [
     {
         id: 5,
         year: 2022,
-        description: 'I did a busines adminstrative course',
-        place: 'TSIBA College',
-        type: 'Certificate',
+        description: 'I worked for markhams part-time',
+        place: 'Markhams',
+        type: 'Job',
         certificate: ''
     },
     {
